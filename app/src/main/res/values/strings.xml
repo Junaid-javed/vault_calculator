@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Vault Calculator</string>
+    <string name="title_activity_caculator">Caculator</string>
+</resources>
